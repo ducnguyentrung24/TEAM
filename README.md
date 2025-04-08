@@ -32,7 +32,7 @@ docker pull leesb7426/subeen:TEAM
 ```
 
 ### 3. Training & Evaluating
-<b>3-1.</b> Train each model follwing `scripts` or download pre-trained weights from [[Drive](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)]  
+<b>3-1.</b> Train each model follwing `scripts` or download pre-trained weights from [[Drive](https://drive.google.com/drive/folders/1-2q_MHetCYx2hGfJoH2DwrPLkWWBLeLl?usp=sharing)]  
 
 Example code for training model without evaluating (<b>Recommended</b>)
 ```
