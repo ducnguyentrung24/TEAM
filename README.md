@@ -4,7 +4,7 @@ SuBeen Lee, WonJun Moon, Hyun Seok Seong, Jae-Pil Heo
 
 Sungkyunkwan University
 
-<!-- [[Arxiv]()] [[Paper]()] -->
+[[Arxiv](https://arxiv.org/abs/2504.05956)]
 
 ## Prerequisites
 ### 0. Clone this repo
